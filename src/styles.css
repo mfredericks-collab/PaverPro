@@ -149,9 +149,15 @@ textarea {
   color: #f6f1e7;
 }
 
-.topline strong {
+.topline strong,
+.topline a {
   color: var(--sand);
   font-weight: 700;
+  text-decoration: none;
+}
+
+.topline a:hover {
+  text-decoration: underline;
 }
 
 .site-header {
@@ -366,6 +372,12 @@ textarea {
   background: var(--orange);
   transform: skewX(-18deg);
   flex: none;
+}
+
+.hero a,
+.page-hero a {
+  color: white;
+  text-underline-offset: 0.18em;
 }
 
 .hero .eyebrow,

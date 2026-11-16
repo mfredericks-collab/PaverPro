@@ -167,7 +167,7 @@ if (form) {
       "Notes:",
       details,
       "",
-      "This summary was not emailed or stored. This preview has no phone number, email, or street address for Patio Pro's.",
+      "This summary was not emailed. Call 201-625-3062 or send it to info@patiopro.com. Patio Pro's is in Mahwah, NJ. NJ HIC #13VH12900000.",
     ].join("\n");
   }
 
